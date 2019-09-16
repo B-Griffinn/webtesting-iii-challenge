@@ -3,6 +3,6 @@ import ReactDOM from 'react-dom';
 
 import './index.css';
 
-import Dashboard from './dashboard/Dashboard';
+import Dashy from './dashboard/Dashboard';
 
-ReactDOM.render(<Dashboard />, document.getElementById('root'));
+ReactDOM.render(<Dashy />, document.getElementById('root'));
